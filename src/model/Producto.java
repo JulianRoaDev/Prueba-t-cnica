@@ -1,5 +1,6 @@
 package src.model;
 
+// Esta es la clase "Producto" que representa un producto en el sistema.
 public class Producto {
 
     private int id;
@@ -8,6 +9,7 @@ public class Producto {
     private int stock;
     private String categoria;
 
+    // Se almacenan datos como el id, nombre, precio, stock y categoria del producto.
     public Producto(int id, String nombre, double precio, int stock, String categoria) {
         this.id = id;
         this.nombre = nombre;
