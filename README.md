@@ -40,6 +40,8 @@ La aplicación permite:
 
 1. Ejecutar el Main.java que se encuentra en la raíz
 
-
 # Palabra creativa
 Palabra creativa: "Fácil como comer salchipapa"
+
+# Retos
+No recordaba como hacer un update a un unico dato de la clase así que mi update actualiza todo el objeto, no es lo más optimo pero funciona, tambien el ID no es auto incrementado ya que imaginando un entorno realista los ID suelen ser una combinación de números y letras o en algunos casos solo letras (aunque en este caso solo acepta números ;P)
